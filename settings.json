@@ -1,0 +1,41 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "terminal.external.linuxExec": "",
+    "terminal.external.osxExec": "iterm.app",
+    "todohighlight.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.html",
+        "**/*.php",
+        "**/*.css",
+        "**/*.scss"
+    ],
+    "rust.cargoPath": "/Users/johann.prell/.cargo/bin/cargo",
+    "rust.cargoHomePath": "/Users/johann.prell/.cargo",
+    "rust.rustfmtPath": "/Users/johann.prell/.cargo/bin/rustfmt",
+    "rust.rustsymPath": "/Users/johann.prell/.cargo/bin/rustsym",
+    "rust.rustLangSrcPath": "/Users/johann.prell/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src",
+    "rust.mode": "rls",
+    "rust.rls": {
+        "executable": "/Users/johann.prell/.cargo/bin/rls",
+        "useRustfmt": true
+    },
+    "editor.wordWrap": "on",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.format.enable": true,
+    "eslint.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay"
+}
